@@ -11,3 +11,7 @@ Primera versión:
 ![alt tag](http://i65.tinypic.com/2ro4xlj.png)
 
 Desarrollado por EDINSONCS
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ockang/sistema-restaurante/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
