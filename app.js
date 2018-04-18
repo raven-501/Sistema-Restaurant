@@ -1,3 +1,6 @@
+'use strict'
+//Initialize Project Restaurant CMS 2018
+
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
