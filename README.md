@@ -3,13 +3,9 @@
 Sistema para restaurante creado en nodejs
 Primera versión:
 
-![alt tag](http://i64.tinypic.com/dqjdcn.png)
+![alt tag](https://miro.medium.com/max/12032/1*6qEuA39r5icm4-6XH-_-fA.jpeg)
 
-![alt tag](http://i63.tinypic.com/wldcpl.png)
 
-![alt tag](http://i63.tinypic.com/10ruxon.png)
-
-![alt tag](http://i65.tinypic.com/2ro4xlj.png)
 
 Desarrollado por EDINSONCS
 
