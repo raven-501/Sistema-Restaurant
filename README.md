@@ -1,4 +1,6 @@
-#Sistema Restaurante
+
+![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/erestaurant.png)
+#ERESTAURANT
 
 Sistema para restaurante creado en nodejs
 Primera versión:
