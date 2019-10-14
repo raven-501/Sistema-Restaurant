@@ -3,12 +3,13 @@
 Sistema para restaurante creado en nodejs
 Primera versión:
 
-![alt tag](https://miro.medium.com/max/12032/1*6qEuA39r5icm4-6XH-_-fA.jpeg)
+![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.06.png)
+![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.19.png)
+![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.28.png)
+![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.42.png)
+![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.48.png)
 
 
 
-Desarrollado por EDINSONCS
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ockang/sistema-restaurante/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Desarrollado por www.edinsoncs.com
 
