@@ -1,5 +1,5 @@
 
-![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/erestaurant_new.png)
+![alt tag](https://edinsoncs.com/wp-content/uploads/2020/05/erestaurant_new.png)
 
 **English:**
 Hello community, thanks for visiting this project that was created 4 years ago. Everything was born from a need and learning new technologies. Today I am developing a very complete CMS with many things which need collaboration from you. I count on your support
@@ -20,11 +20,7 @@ Hallo Community, vielen Dank für den Besuch dieses Projekts, das vor 4 Jahren e
 Sistema para restaurante creado en nodejs(Versión temporal)
 Primera versión:
 
-![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.06.png)
-![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.19.png)
-![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.28.png)
-![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.42.png)
-![alt tag](https://edinsoncs.com/wp-content/uploads/2019/10/Captura-de-pantalla-2019-10-14-a-las-06.22.48.png)
+![alt tag](https://edinsoncs.com/wp-content/uploads/2020/05/erestaurant_new.png)
 
 
 
