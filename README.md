@@ -20,7 +20,7 @@ Hallo Community, vielen Dank für den Besuch dieses Projekts, das vor 4 Jahren e
 Sistema para restaurante creado en nodejs(Versión temporal)
 Primera versión:
 
-![alt tag](https://edinsoncs.com/wp-content/uploads/2020/05/erestaurant_new.png)
+![alt tag](https://edinsoncs.com/wp-content/uploads/2020/05/screencapture-localhost-8080-panel-2020-05-03-14_38_23.png)
 
 
 
