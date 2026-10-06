@@ -871,10 +871,8 @@ Este proyecto está bajo la licencia **MIT**. Ver [LICENSE](LICENSE) para más d
 
 ## 📞 Contacto
 
-- **Autor**: [Tu Nombre]
-- **Email**: tu@email.com
-- **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
-- **LinkedIn**: [Tu Perfil](https://linkedin.com/in/tu_perfil)
+- **Autor**: [Raven Marciano]
+- **Email**: time@gmail.com
 - **Website**: [tusitio.com](https://tusitio.com)
 
 ---
