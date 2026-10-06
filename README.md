@@ -872,7 +872,7 @@ Este proyecto está bajo la licencia **MIT**. Ver [LICENSE](LICENSE) para más d
 ## 📞 Contacto
 
 - **Autor**: [Raven Marciano]
-- **Email**: time@gmail.com
+- **Email**: tim@gmail.com
 - **Website**: [tusitio.com](https://tusitio.com)
 
 ---
